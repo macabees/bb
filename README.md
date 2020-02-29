@@ -1,5 +1,5 @@
 # BB (Portable Demo)
-## Known as the "The Portable Demo" it is an ASCII text video with sound in the console.
+Known as the "The Portable Demo" it is an ASCII text video with sound in the console.
 
 ## BB (Project Info)
 [Website](http://aa-project.sourceforge.net/bb/)
